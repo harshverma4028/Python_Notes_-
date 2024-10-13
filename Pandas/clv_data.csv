@@ -1,0 +1,25 @@
+,id,age,gender,income,days_on_platform,city,purchases
+0,0,,Male,126895,14,San Francisco,
+1,1,,Male,161474,14,Tokyo,
+2,2,24,Male,104723,34,London,1
+3,3,29,,,28,,2
+4,4,18,Female,,26,London,2
+5,5,23,Male,12315,14,New York City,0
+6,6,,Male,51679,30,Tokyo,0
+7,7,,Female,53341,43,San Francisco,1
+8,8,46,,129157,23,,
+9,9,49,Female,,19,Tokyo,2
+10,10,,Male,159506,7,,0
+11,11,,,,30,San Francisco,1
+12,12,12,Male,130521,12,London,1
+13,13,,Male,105418,13,Miami,
+14,14,,Male,95060,7,,1
+15,15,31,Female,,20,Miami,0
+16,16,19,Female,51434,18,New York City,0
+17,17,27,Female,177582,2,London,0
+18,18,,Female,260,32,,0
+19,19,32,Female,,,Tokyo,1
+20,20,40,Male,,,Tokyo,1
+21,21,,Male,67623,40,New York City,0
+22,22,,Female,39433,36,,2
+23,23,10,Female,,5,Tokyo,2
